@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    color: red;
+}
+
+.black {
+    background-color: #000;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    color: red;
+}
