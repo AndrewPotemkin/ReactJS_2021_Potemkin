@@ -1,0 +1,38 @@
+$primary-color: rgb(18, 14, 240);
+$bg-color: #ccc;
+
+.add {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: $primary-color;
+    background-color: $bg-color;
+}
+
+.title {
+    margin: 20px 0 20px 0;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    margin: 0 0 10px 0;
+}
+
+.label {
+    margin: 0;
+}
+
+.button {
+    background: rgb(129, 46, 46);
+}
