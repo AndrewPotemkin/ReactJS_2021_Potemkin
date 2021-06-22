@@ -1,0 +1,25 @@
+.task-add {
+    width: 50%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.task-add__title {
+    margin: 20px 0 20px 0;
+}
+
+.task-add__field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.task-add__input {
+    margin: 0 0 10px 0;
+}
